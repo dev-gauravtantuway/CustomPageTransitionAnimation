@@ -1,1 +1,1 @@
-# CustomPageTransitionAnimation
+# Custom page transition animation
